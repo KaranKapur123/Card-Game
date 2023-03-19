@@ -1,0 +1,2 @@
+# Card-Game
+This is a text based 2 player card game which i made for an assignment. This game has characters from the game League of Legends by Riot Games. The champions in League of Legends are portray by cards that have attributes like mana required to cast this card, Toughness and Power. The goal of the game is to defeat the enemy by damaging them using your cards and protecting yourself using your cards.
